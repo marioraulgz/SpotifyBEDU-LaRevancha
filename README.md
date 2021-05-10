@@ -56,7 +56,7 @@ Este paso corresponde a
 ```
 SpotifyBEDU-LaRevancha/Postworks/
 ```
-> Aqui va el resumen que se incluya en el postwork
+
 <a name="evaluacion"></a>
 ## Distribuciones Muestrales y Técnicas de Evaluación de Modelos
 
