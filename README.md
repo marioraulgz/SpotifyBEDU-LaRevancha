@@ -1,5 +1,5 @@
 # Spotipy BEDU La Revancha
-## Equipo 2?
+## Equipo 2 
 *Análisis de los datos de Spotify, gráficas bonitas incluidas.* 
 <img src = 'beduequipo2.png'>
 ## Índice
@@ -18,16 +18,17 @@
 En este proyecto pongámonos en los zapatos de unos científicos de datos en Spotify, graduados de BEDU y que pasaron exitosamente a la fase de Machine Learning, ahora encargados de hacer un análisis más extenso, siendo rigurosos estadísticamente.
 
 Divideremos cada uno de los pasos para la elaboración del proyecto en secciones, a cada sección le corresponderá su Notebook.
-Al tratarse de un README, no trataremos los temas a profundidad, sino que daremos una breve introducción que podrá consistir de fragmentos del contenido de los Notebooks (ubicados en SpotifyBEDU-LaRevancha/Postworks/)
+Al tratarse de un README, no trataremos los temas a profundidad, sino que en unos casos daremos una breve introducción que podrá consistir de fragmentos del contenido de los Notebooks (ubicados en SpotifyBEDU-LaRevancha/Postworks/)
 
 <a name="estimados"></a>
 ## Estimados de Locación y Variabilidad, de Locación y Variabilidad
 
 Este paso corresponde a
 ```
-SpotifyBEDU-LaRevancha/Postworks/
-```
-> Aqui va el resumen que se incluya en el postwork
+SpotifyBEDU-LaRevancha/Postworks/Postwork_Sesión_1
+```  
+Media, mediana y percentiles.
+
 
 <a name="distribuciones"></a>
 ## Introducción a la visualización de datos: Distribuciones
@@ -45,10 +46,9 @@ Algunas otras preguntas que surgen, pero que no necesariamente vienen en la mism
 
 Este paso corresponde a
 ```
-SpotifyBEDU-LaRevancha/Postworks/
+SpotifyBEDU-LaRevancha/Postworks/Postwork Sesión 3 - Exploración de variables categóricas y análisis multivariable
 ```
-> Aqui va el resumen que se incluya en el postwork
-
+ 
 
 <a name="correlacion"></a>
 ## Correlaciones y Regresión Linear Simple
@@ -62,17 +62,17 @@ SpotifyBEDU-LaRevancha/Postworks/
 
 Este paso corresponde a
 ```
-SpotifyBEDU-LaRevancha/Postworks/
+SpotifyBEDU-LaRevancha/Postworks/Postwork Sesión 5 - Distribuciones muestrales y técticas de evaluación de modelos
 ```
-> Aqui va el resumen que se incluya en el postwork
+La piedra angular de todo analisis estadisticamente riguroso, analizaremos nuestros datos para encontrar similitudes con otras distribuciones ya conocidas.
 <a name="visualizacion"></a>
 ## Visualización de datos avanzada  
 
 Este paso corresponde a
 ```
-SpotifyBEDU-LaRevancha/Postworks/
+SpotifyBEDU-LaRevancha/Postworks/Postwork_Sesion_6-VisualizaciónDeDatosAvanzada
 ```
-> Aqui va el resumen que se incluya en el postwork
+Usaremos la librería Plotly para subir de nivel nuestra visualización de datos
 
 <a name="abnlp"></a>
 ## Pruebas A/B y Procesamiento de Lenguaje Natural
