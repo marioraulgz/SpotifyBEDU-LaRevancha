@@ -34,11 +34,9 @@ Media, mediana y percentiles.
 ## Introducción a la visualización de datos: Distribuciones
 Este paso corresponde a
 ```
-SpotifyBEDU-LaRevancha/Postworks/
+SpotifyBEDU-LaRevancha/Postworks/Postwork Módulo 4 Sesión 2
 ```
-> Aqui va el resumen que se incluya en el postwork
-
-Algunas otras preguntas que surgen, pero que no necesariamente vienen en la misma línea de pensamiento que la que planteamos surgen y serán abordadas en la sección extra.
+Usaremos Seaborn para tener una mejor idea de nuestros datos. 
 
 
 <a name="exploracion"></a>
@@ -54,10 +52,15 @@ SpotifyBEDU-LaRevancha/Postworks/Postwork Sesión 3 - Exploración de variables 
 ## Correlaciones y Regresión Linear Simple
 Este paso corresponde a
 ```
-SpotifyBEDU-LaRevancha/Postworks/
+SpotifyBEDU-LaRevancha/Postworks/Postwork Módulo 4 Sesión 4
 ```
+De Wikipedia
+> En estadística, la regresión lineal simple es un modelo de regresión lineal con una sola variable explicativa
+
+=======
 
 <a name="evaluacion"></a>
+>>>>>>> 70d7c454aca66460c3e03369fec8c6f93d62090f
 ## Distribuciones Muestrales y Técnicas de Evaluación de Modelos
 
 Este paso corresponde a
@@ -108,5 +111,5 @@ De Wikipedia
 Finalmente, algunos links que servirán al lector para ahondar más en los temas tocados.
 - [Spotify for Developers](https://developer.spotify.com/documentation/web-api/)
 - [scikit-learn](https://scikit-learn.org/stable/)
-- [https://www.nltk.org/](https://scikit-learn.org/stable/)
-
+- [nltk](https://www.nltk.org/)
+- [Wikipedia](www.wikipedia.org)
