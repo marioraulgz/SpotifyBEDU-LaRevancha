@@ -11,8 +11,6 @@
 - [Distribuciones Muestrales y Técnicas de Evaluación de Modelos](#evaluacion)
 - [Visualización de datos avanzada](#visualizacion)  
 - [Pruebas A/B y Procesamiento de Lenguaje Natural](#abnlp)
-   * [Pruebas A/B ](#ab)
-   * [Procesamiento de Lenguaje Natural](#nlp)
 - [Introducción a Machine Learning: Clasificación No Supervisada y Supervisada](#machinelearning)
 - [Links](#links)
 <a name="introduccion"></a>
@@ -81,27 +79,34 @@ SpotifyBEDU-LaRevancha/Postworks/
 
 Este paso corresponde a
 ```
-SpotifyBEDU-LaRevancha/Postworks/
+SpotifyBEDU-LaRevancha/Postworks/Postwork Sesión 7 - NLP
 ```
-> Aqui va el resumen que se incluya en el postwork
-
-<a name="ab"></a>
-### Pruebas A/B
-<a name="nlp"></a>
 ### Procesamiento de Lenguaje Natural
+
+Citando al postwork:
+> Según Wikipedia
+
+    El procesamiento de lenguaje natural,1​2​ abreviado PLN3​4​ —en inglés, natural language processing, NLP— es un campo de las ciencias de la computación, de la inteligencia artificial y de la lingüística que estudia las interacciones entre las computadoras y el lenguaje humano. Se ocupa de la formulación e investigación de mecanismos eficaces computacionalmente para la comunicación entre personas y máquinas por medio del lenguaje natural, es decir, de las lenguas del mundo
+    
+   Haremos uso de este para explorar los titulos de las canciones de nuestro dataset.
 
 <a name="machinelearning"></a>
 ## Introducción a Machine Learning: Clasificación No Supervisada y Supervisada
 
 Este paso corresponde a
 ```
-SpotifyBEDU-LaRevancha/Postworks/
+SpotifyBEDU-LaRevancha/Postworks/Postwork Sesión 8 - Clasificación No Supervisada y Supervisada
 ```
-> Aqui va el resumen que se incluya en el postwork
+Citando al postwork:
+> La parte favorita cuando se habla de ciencia de datos, aprendizaje de maquina. En este postwork usaremos clasificación supervisada para ver construir un modelo que dados algunos metadatos de la canción, nos diga si será o no popular. Usaremos regresión logística.
+De Wikipedia
+
+    En estadística, la regresión logística es un tipo de análisis de regresión utilizado para predecir el resultado de una variable categórica en función de las variables independientes o predictoras. Es útil para modelar la probabilidad de un evento ocurriendo como función de otros factores.
 
 <a name="links"></a>
 ### Links
 Finalmente, algunos links que servirán al lector para ahondar mas en los temas tocados.
 - [Spotify for Developers](https://developer.spotify.com/documentation/web-api/)
-
+- [scikit-learn](https://scikit-learn.org/stable/)
+- [https://www.nltk.org/](https://scikit-learn.org/stable/)
 
