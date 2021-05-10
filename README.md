@@ -105,7 +105,7 @@ De Wikipedia
 
 <a name="links"></a>
 ### Links
-Finalmente, algunos links que servirán al lector para ahondar mas en los temas tocados.
+Finalmente, algunos links que servirán al lector para ahondar más en los temas tocados.
 - [Spotify for Developers](https://developer.spotify.com/documentation/web-api/)
 - [scikit-learn](https://scikit-learn.org/stable/)
 - [https://www.nltk.org/](https://scikit-learn.org/stable/)
