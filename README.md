@@ -64,7 +64,7 @@ Este paso corresponde a
 ```
 SpotifyBEDU-LaRevancha/Postworks/Postwork Sesión 5 - Distribuciones muestrales y técticas de evaluación de modelos
 ```
-La piedra angular de todo analisis estadíticamente riguroso, analizaremos nuestros datos para encontrar similitudes con otras distribuciones ya conocidas.
+La piedra angular de todo análisis estadíticamente riguroso, analizaremos nuestros datos para encontrar similitudes con otras distribuciones ya conocidas.
 <a name="visualizacion"></a>
 ## Visualización de datos avanzada  
 
