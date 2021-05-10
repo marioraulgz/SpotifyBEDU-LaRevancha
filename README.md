@@ -17,7 +17,7 @@
 ## Introducción
 En este proyecto pongámonos en los zapatos de unos científicos de datos en Spotify, graduados de BEDU y que pasaron exitosamente a la fase de Machine Learning, ahora encargados de hacer un análisis más extenso, siendo rigurosos estadísticamente.
 
-Divideremos cada uno de los pasos para la elaboración del proyecto en secciones, a cada sección le corresponderá su Notebook.
+Dividiremos cada uno de los pasos para la elaboración del proyecto en secciones, a cada sección le corresponderá su Notebook.
 Al tratarse de un README, no trataremos los temas a profundidad, sino que en unos casos daremos una breve introducción que podrá consistir de fragmentos del contenido de los Notebooks (ubicados en SpotifyBEDU-LaRevancha/Postworks/)
 
 <a name="estimados"></a>
