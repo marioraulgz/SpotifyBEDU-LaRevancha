@@ -98,7 +98,7 @@ Este paso corresponde a
 SpotifyBEDU-LaRevancha/Postworks/Postwork Sesión 8 - Clasificación No Supervisada y Supervisada
 ```
 Citando al postwork:
-> La parte favorita cuando se habla de ciencia de datos, aprendizaje de maquina. En este postwork usaremos clasificación supervisada para ver construir un modelo que dados algunos metadatos de la canción, nos diga si será o no popular. Usaremos regresión logística.
+> La parte favorita cuando se habla de ciencia de datos, aprendizaje de máquina. En este postwork usaremos clasificación supervisada para construir un modelo que dados algunos metadatos de la canción, nos diga si será o no popular. Usaremos regresión logística.
 De Wikipedia
 
     En estadística, la regresión logística es un tipo de análisis de regresión utilizado para predecir el resultado de una variable categórica en función de las variables independientes o predictoras. Es útil para modelar la probabilidad de un evento ocurriendo como función de otros factores.
