@@ -1,7 +1,7 @@
 # Spotipy BEDU La Revancha
 ## Equipo 2?
 *Análisis de los datos de Spotify, gráficas bonitas incluidas.* 
-<img src = '.png'>
+<img src = 'beduequipo2.png'>
 ## Índice
 - [Introducción](#introduccion)
 - [Estimados de Locación y Variabilidad, de Locación y Variabilidad](#estimados)
