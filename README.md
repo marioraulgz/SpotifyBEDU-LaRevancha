@@ -88,7 +88,7 @@ Citando al postwork:
 
     El procesamiento de lenguaje natural,1​2​ abreviado PLN3​4​ —en inglés, natural language processing, NLP— es un campo de las ciencias de la computación, de la inteligencia artificial y de la lingüística que estudia las interacciones entre las computadoras y el lenguaje humano. Se ocupa de la formulación e investigación de mecanismos eficaces computacionalmente para la comunicación entre personas y máquinas por medio del lenguaje natural, es decir, de las lenguas del mundo
     
-   Haremos uso de este para explorar los titulos de las canciones de nuestro dataset.
+   Haremos uso de este para explorar los títulos de las canciones de nuestro dataset.
 
 <a name="machinelearning"></a>
 ## Introducción a Machine Learning: Clasificación No Supervisada y Supervisada
